@@ -8,7 +8,7 @@ body {
 header {
     background-image: url(capa.jpg);
     color: white;
-    padding: 20px;
+    padding: 50px;
     text-align: center;
     justify-items: center;
 }
@@ -62,4 +62,9 @@ footer {
     width: 100%;
     max-width: 400px;
     clip-path: circle(50%);
+}
+
+.bar{
+    height: 30px;
+    width: 100%;
 }
